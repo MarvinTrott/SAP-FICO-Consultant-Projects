@@ -8,5 +8,3 @@ This repository contains real-world business scenarios, configuration guides, an
 - SAP HANA queries for financial analysis  
 - Automation in SAP (F110 for vendor payments, cost allocation)  
 - Case studies & best practices  
-
-Feel free to explore and contribute!  
